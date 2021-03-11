@@ -1,1 +1,1 @@
-console.log("the javascript file is conneted");
+console.log("the javascript file is connected");
